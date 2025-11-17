@@ -1,1 +1,1 @@
-console.log('change is good');
+console.log('change');
